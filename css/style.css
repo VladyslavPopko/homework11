@@ -215,7 +215,7 @@ ul{
   font-family: Oswald;
   src: url(../fonts/Oswald-Regular.ttf);
 }
-@media (max-width : 520px){
+@media (max-width : 420px){
   .left{
     display: none;
   }
